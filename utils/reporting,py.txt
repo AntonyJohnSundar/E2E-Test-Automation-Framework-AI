@@ -1,0 +1,4 @@
+# Reporting (Allure/ExtentReports placeholder)
+def generate_report():
+    os.system("pytest --alluredir=reports/allure")  # Adjust for reporting tool used
+    logger.info("Test report generated successfully!")
