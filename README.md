@@ -1,0 +1,2 @@
+# E2E-Test-Automation-Framework-AI
+  ✅ Cross-Browser &amp; Mobile Testing – Selenium, Playwright &amp; Appium ✅ AI Auto-Healing – Healenium for UI changes ✅ CI/CD Ready  ✅ Cloud Storage – AWS S3 for test artifacts ✅ Live Streaming &amp; Video Capture – WebRTC &amp; OpenCV ✅ Scalable Execution – Docker &amp; Kubernetes ✅ Rich Reports – Allure &amp; ExtendReports -Clone, configure, and run tests effortlessly
